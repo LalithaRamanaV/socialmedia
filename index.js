@@ -10,7 +10,7 @@ dotenv.config();
 
 mongoose.connect(process.env.MONGO_URL, {useNewUrlParser: true},
     ()=>{
-    console.log("connected to mongodb");
+    console.log("connected to Mongodb");
 });
 
 //middleware
