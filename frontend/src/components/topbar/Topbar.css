@@ -6,6 +6,7 @@
     position:sticky;
     top:0;
     align-items: center;
+    z-index:999;
 }
 .topbarLeft{
     flex:3;
