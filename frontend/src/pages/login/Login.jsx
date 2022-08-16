@@ -5,9 +5,9 @@ export default function Login() {
     <div className="login">
       <div className="loginWrapper">
         <div className="loginLeft">
-          <h3 className="loginLogo">UniverseConnect</h3>
+          <h3 className="loginLogo">UniConnect</h3>
           <span className="loginDesc">
-            Connect with friends and the world around you on universeconnect.
+            Connect with friends and the world around you on uniconnect.
           </span>
         </div>
         <div className="loginRight">
