@@ -14,7 +14,7 @@
 * Postman
 
 # Features
-
+* Like or dislike post
 * Login 
 * Here user can login with the credentials
 ![Screenshot (92)](https://user-images.githubusercontent.com/58090261/184789760-3918c2c3-48dc-454f-b588-3be36da20197.png)
