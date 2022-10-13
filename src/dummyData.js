@@ -2,52 +2,52 @@ export const Users = [
     {
       id:1,
       profilePicture: "assets/person/1.jpeg",
-      username: "Safak Kocaoglu",
+      username: "Lalitha Vadavalli",
     },
     {
       id:2,
       profilePicture: "assets/person/2.jpeg",
-      username: "Janell Shrum",
+      username: "Bhavya Vadavalli",
     },
     {
       id:3,
       profilePicture: "assets/person/3.jpeg",
-      username: "Alex Durden",
+      username: "Frontend dev",
     },
     {
       id:4,
       profilePicture: "assets/person/4.jpeg",
-      username: "Dora Hawks",
+      username: "Backend dev",
     },
     {
       id:5,
       profilePicture: "assets/person/5.jpeg",
-      username: "Thomas Holden",
+      username: "UI Developer",
     },
     {
       id:6,
       profilePicture: "assets/person/6.jpeg",
-      username: "Shirley Beauchamp",
+      username: "Nodejs developer",
     },
     {
       id:7,
       profilePicture: "assets/person/7.jpeg",
-      username: "Travis Bennett",
+      username: "Fullstack developer",
     },
     {
       id:8,
       profilePicture: "assets/person/8.jpeg",
-      username: "Kristen Thomas",
+      username: "Software engineer",
     },
     {
       id:9,
       profilePicture: "assets/person/9.jpeg",
-      username: "Gary Duty",
+      username: "UI Engineer",
     },
     {
       id:10,
       profilePicture: "assets/person/10.jpeg",
-      username: "Safak Kocaoglu",
+      username: "Javascript developer",
     },
   ];
   
